@@ -1,0 +1,3 @@
+0001-avoid-self-describing-as-a-beta.patch
+0007-gtk2-When-X11-input-grabbing-fails-try-again-over-0..patch
+0003-Fix-format-string-errors-in-fltk-pinentry.patch
